@@ -25,7 +25,7 @@ export default function Home() {
         <CardInfo
           title="Saldo atual"
           imageUrl="/frame.svg"
-          description="$49,13k"
+          description="$49,12k"
         />
       </div>
       <div className="mt-4 grid grid-cols-1 gap-4 px-3 pb-4">
